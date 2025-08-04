@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "buJhsCd7ALTvbEdlO9t8Zrb6wrfboliVtXy47g4k5Jk=",
+  "Source": "lesson-1",
+  "BasePath": "_content/lesson-1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lesson-1\\wwwroot",
+      "Source": "lesson-1",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Masaüstü\\backend\\lesson-4\\backend\\wwwroot\\",
+      "BasePath": "_content/lesson-1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Masaüstü\\backend\\lesson-4\\backend\\wwwroot\\index.html",
+      "SourceId": "lesson-1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Masaüstü\\backend\\lesson-4\\backend\\wwwroot\\",
+      "BasePath": "_content/lesson-1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
